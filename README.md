@@ -20,13 +20,13 @@ The analysis is divided into three main parts:
 ## Key Insights from the Analysis
 
 * **Booking Success Rate**: Approximately 55% of all ride requests are successfully completed. [cite_start]A significant 35% of bookings fail due to "No Driver Found," indicating a potential gap between demand and driver availability. [cite: 1]
-* [cite_start]**Peak Demand Hours**: The busiest period for Uber bookings is the evening rush hour, from **6:00 PM to 7:00 PM**. [cite: 1]
+* **Peak Demand Hours**: The busiest period for Uber bookings is the evening rush hour, from **6:00 PM to 7:00 PM**. [cite: 1]
 * **Popular Locations**:
-    * [cite_start]**Top Pickup Hotspots**: Karol Bagh, Nehru Place, and Palam Vihar. [cite: 1]
-    * [cite_start]**Top Drop-off Destinations**: Vishwavidyalaya, Aya Nagar, and Jhilmil. [cite: 1]
+    * **Top Pickup Hotspots**: Karol Bagh, Nehru Place, and Palam Vihar. [cite: 1]
+    * **Top Drop-off Destinations**: Vishwavidyalaya, Aya Nagar, and Jhilmil. [cite: 1]
 * **Vehicle & Payment Preferences**:
-    * [cite_start]The **Go Sedan** is the most popular vehicle choice, followed by Auto and Go Mini. [cite: 1]
-    * [cite_start]**UPI** is the most preferred payment method, accounting for over 40% of transactions. [cite: 1]
+    * The **Go Sedan** is the most popular vehicle choice, followed by Auto and Go Mini. [cite: 1]
+    * **UPI** is the most preferred payment method, accounting for over 40% of transactions. [cite: 1]
 
 ---
 
